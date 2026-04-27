@@ -4,7 +4,7 @@
 
 ---
 
-[![Economic Analysis](https://img.shields.io/badge/📊_Economic_Analysis-Live-4CAF50?style=for-the-badge)](https://economic-analysis-report-generator.vercel.app/)
+
 
 ## Background
 
