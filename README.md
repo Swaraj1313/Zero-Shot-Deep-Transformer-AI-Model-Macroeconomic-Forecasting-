@@ -2,7 +2,7 @@
 
 **Evaluating zero-shot time series foundation models for macroeconomic forecasting across developing economies**
 
-[![Macro Analysis Deep Transformer](https://img.shields.io/badge/📊_Macro Analysis Deep Transformer-Live-4CAF50?style=for-the-badge)](https://macro-ai-engine.onrender.com/)
+[![Economic Analysis](https://img.shields.io/badge/📊_Macro_Analysis-Transformer-4CAF50?style=for-the-badge)](https://macro-ai-engine.onrender.com/)
 
 The link may not be working all the time as it requires allocating compute (kindly email info.swarajsingh@gmail.com).
 ---
