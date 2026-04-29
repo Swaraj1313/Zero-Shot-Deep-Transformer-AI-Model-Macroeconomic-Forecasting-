@@ -2,7 +2,7 @@
 
 **Evaluating zero-shot time series foundation models for macroeconomic forecasting across developing economies**
 
-[![AI Forecasting](https://img.shields.io/badge/🤖_AI_Forecasting-Live_Demo-7C3AED?style=for-the-badge)](http://3.229.14.75)
+[![AI Forecasting](https://img.shields.io/badge/🤖_AI_Forecasting-Live_Forecast Tool-7C3AED?style=for-the-badge)](http://3.229.14.75)
 
 [![MOIRAI Macro Forecasting](https://img.shields.io/badge/🚀_Live_Demo-MOIRAI_Engine-0066FF?style=for-the-badge)](http://3.229.14.75)
 
