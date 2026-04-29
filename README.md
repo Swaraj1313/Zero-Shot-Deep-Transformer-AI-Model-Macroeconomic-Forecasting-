@@ -4,6 +4,8 @@
 
 [![Economic Analysis](https://img.shields.io/badge/📊_Macro_Analysis-Transformer-4CAF50?style=for-the-badge)](https://macro-ai-engine.onrender.com/)
 
+[![MOIRAI Macro Forecasting](https://img.shields.io/badge/🚀_Live_Demo-MOIRAI_Engine-0066FF?style=for-the-badge)](http://44.205.247.20)
+
 The link may not be working all the time as it requires allocating compute (kindly email info.swarajsingh@gmail.com).
 ---
 
