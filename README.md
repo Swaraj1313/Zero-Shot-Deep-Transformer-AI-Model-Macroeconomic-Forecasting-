@@ -2,7 +2,7 @@
 
 **Evaluating zero-shot time series foundation models for macroeconomic forecasting across developing economies**
 
-[![AI Forecasting](https://img.shields.io/badge/🤖_AI_Forecasting-Live_Demo-7C3AED?style=for-the-badge)](http://44.205.247.20)
+[![AI Forecasting](https://img.shields.io/badge/🤖_AI_Forecasting-Live_Demo-7C3AED?style=for-the-badge)](http://3.229.14.75)
 
 The link may not be working all the time as it requires allocating compute (kindly email info.swarajsingh@gmail.com).
 ---
