@@ -6,7 +6,7 @@
 
 [![MOIRAI Macro Forecasting](https://img.shields.io/badge/🚀_Live_Tool-MOIRAI_Engine-0066FF?style=for-the-badge)](http://3.229.14.75)
 
-The link may not be working all the time as it requires allocating compute (kindly email info.swarajsingh@gmail.com).
+The link may not be working all the time as it requires allocating compute on AWS server instance (kindly email info.swarajsingh@gmail.com).
 ---
 
 
