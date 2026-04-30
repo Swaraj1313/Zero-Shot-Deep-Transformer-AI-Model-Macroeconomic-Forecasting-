@@ -94,23 +94,7 @@ Further analytical layers — debt sustainability analysis, external vulnerabili
 
 ---
 
-## Running Locally
 
-Requires Python 3.10+, Node 18+, ~2GB disk for model download.
-
-```bash
-git clone https://github.com/Swaraj1313/macro-ai-engine.git
-cd macro-ai-engine
-
-# Backend
-python3 -m venv venv && source venv/bin/activate
-# Install deps in order — see EC2_DEPLOY_STEPS.md for pinned versions
-cd backend && python app.py
-# First run downloads Moirai (~1.24GB) from HuggingFace — takes 2-3 min
-
-# Frontend (new terminal)
-cd frontend && npm install && npm run dev
-```
 
 ---
 
